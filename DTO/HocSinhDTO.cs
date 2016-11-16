@@ -16,7 +16,7 @@ namespace DTO
         private int malop;
         public HocSinhDTO(int _mahs, string _tenhs, string _diachi, string _dienthoai, DateTime _ngaysinh, int _malop)
         {
-            this.mahs = _mahs;
+            this.mahs = _mahs;//hfjkhsdakjfhadfha
             this.dienthoai = _dienthoai;
            
             this.tenhs = _tenhs;
